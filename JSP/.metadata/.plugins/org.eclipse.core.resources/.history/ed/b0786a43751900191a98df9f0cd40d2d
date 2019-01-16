@@ -1,0 +1,43 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1" import ="java.util.*"%>
+	
+	
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<h1>hello</h1>
+<p>
+	what is 2 *3
+	<%=2 * 3%></p>
+	
+	<p> Is 2 greter than 1 <%= 2>1 %>
+	</p>
+	<%!
+	int var = 5;
+	
+	int getAge()
+	{
+		return var;
+	}
+	%>
+	<p> <% Date d = new Date();
+	out.println(d);
+	
+	%>
+	</p>
+	<p> My age is </p>
+	<%
+	 for(int i =0;i<5;i++)
+	 {
+		out.println(i);
+	 }
+	%>
+	
+	
+</head>
+<body>
+
+</body>
+</html>
