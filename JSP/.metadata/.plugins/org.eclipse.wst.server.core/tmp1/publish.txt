@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Wed Jan 16 18:34:00 IST 2019
-org.eclipse.jst.jee.server\:JSP_project=C\:\\Users\\SameerKumar.Singh\\Downloads\\apache-tomcat-9.0.14-windows-x64\\apache-tomcat-9.0.14\\wtpwebapps\\JSP_project
-org.eclipse.jst.jee.server\:ServeletExample=C\:\\Users\\SameerKumar.Singh\\Downloads\\apache-tomcat-9.0.14-windows-x64\\apache-tomcat-9.0.14\\wtpwebapps\\ServeletExample
