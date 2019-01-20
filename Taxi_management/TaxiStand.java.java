@@ -43,13 +43,13 @@ public class TaxiStand {
     	if(q.getDestination()==null)
     		{
     			q.setDestination(p.getDestination());
-    			 u=q.addPassenger();
+    			 status=q.addPassenger();
     		}
     	
     	
     	else if(q.getDestination()==p.getDestination()){
     	               System.out.println("Found taxi to " + p.getDestination());
-    	               u= q.addPassenger();
+    	               status= q.addPassenger();
     	    			}
     	             
     	
