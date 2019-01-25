@@ -1,0 +1,44 @@
+2019-01-25 22:52:10,430 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-25 22:53:17,249 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: codeQuality:Mayank:0.0.1-SNAPSHOT @ C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\pom.xml.
+2019-01-25 22:53:22,823 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mayank/src/main/java
+2019-01-25 22:53:22,824 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mayank/src/main/resources
+2019-01-25 22:53:22,826 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mayank/src/test/java
+2019-01-25 22:53:26,216 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2019-01-25 22:53:28,615 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 22:53:28,679 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-01-25 22:53:28,697 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 22:53:28,703 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\src\test\resources
+2019-01-25 22:54:37,844 [Worker-6: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: codeQuality:Mayank:0.0.1-SNAPSHOT @ C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\pom.xml.
+2019-01-25 22:54:40,156 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 22:54:40,169 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-01-25 22:54:40,187 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 22:54:40,197 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\src\test\resources
+2019-01-25 22:54:42,452 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 22:54:42,466 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-01-25 22:54:42,475 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 22:54:42,484 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\src\test\resources
+2019-01-25 22:57:50,911 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-01-25 22:58:01,934 [Worker-8: Launching mayankCodeQuality] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality
+2019-01-25 22:58:01,935 [Worker-8: Launching mayankCodeQuality] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B sonar:sonar
+2019-01-25 23:00:17,392 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: codeQuality:Sameer:0.0.1-SNAPSHOT @ C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\pom.xml.
+2019-01-25 23:00:19,304 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 23:00:19,314 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-25 23:00:19,316 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 23:00:19,325 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\src\test\resources
+2019-01-25 23:00:19,326 [Worker-13: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Sameer
+2019-01-25 23:00:19,328 [Worker-13: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Sameer
+2019-01-25 23:00:19,335 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 23:00:49,277 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-01-25 23:00:57,846 [Worker-8: Launching mayankCodeQuality (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality
+2019-01-25 23:00:57,846 [Worker-8: Launching mayankCodeQuality (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B sonar:sonar
+2019-01-25 23:04:06,298 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 23:04:06,314 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-25 23:04:06,316 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 23:04:06,335 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\src\test\resources
+2019-01-25 23:05:17,913 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 23:05:17,921 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-25 23:05:17,922 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-25 23:05:17,929 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality\src\test\resources
+2019-01-25 23:05:56,661 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-01-25 23:06:06,991 [Worker-19: Launching mayankCodeQuality (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SameerKumar.Singh\Downloads\mayankCodeQuality\mayankCodeQuality
+2019-01-25 23:06:06,991 [Worker-19: Launching mayankCodeQuality (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B sonar:sonar
