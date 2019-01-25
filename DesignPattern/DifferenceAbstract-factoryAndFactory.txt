@@ -1,0 +1,1 @@
+Factory Method is just a method while Abstract Factory is an object. The purpose of a Class having factory method is not just create objects, it does other work also, only a method is responsible for creating object. In Abstract Factory, the whole purpose of the class is to create family of objects.
